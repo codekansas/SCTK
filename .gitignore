@@ -38,3 +38,7 @@ src/stmValidator/stmValidator.pl
 src/tanweenFilt/makefile
 src/utf_filt/makefile
 
+# python build files
+*.egg-info/
+sctk.*.so
+bin/
